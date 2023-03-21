@@ -1,0 +1,19 @@
+EntityBlueprint 
+{
+	NoSaveComp
+	{
+	}
+	
+	name 				"units/alien/tower_cube_form"	
+		
+	RenderableDescComp
+	{
+		mesh			"meshes/units/alien/tower_cube_form.mesh"
+	}		
+	
+	SkeletonDescComp
+	{
+		name			"meshes/units/alien/tower_cube_form"
+	}	
+	
+}
